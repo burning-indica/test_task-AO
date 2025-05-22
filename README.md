@@ -12,12 +12,12 @@
 
 ## Установка
 
-2. Виртуальное окружение:
+1. Виртуальное окружение:
    ```
    python -m venv venv
    venv\Scripts\activate
    ```
-3. Зависимости:
+2. Зависимости:
    ```
    pip install -r requirements.txt
    ```
