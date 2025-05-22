@@ -1,0 +1,4 @@
+[1m[31mERROR   [0m root:test_OA_one.py:60 Ошибка в тесте: Авторизация не удалась!
+assert False
+ +  where False = check_successful_authorization()
+ +    where check_successful_authorization = <pages.main_page.MainPage object at 0x0000021535C431C0>.check_successful_authorization
